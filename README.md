@@ -24,7 +24,7 @@ This mini project is not about complex functionality but about getting familiar 
 ## 📸 Screenshot
 
 
-![Form Screenshot](.png)
+![Form Screenshot](IMG-20250603-WA0025.jpg)
 
 ## 🛠️ How to Use
 

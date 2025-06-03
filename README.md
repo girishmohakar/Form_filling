@@ -23,7 +23,8 @@ This mini project is not about complex functionality but about getting familiar 
 
 ## 📸 Screenshot
 
-(You can insert a screenshot of your form here)
+
+![Form Screenshot](.png)
 
 ## 🛠️ How to Use
 
